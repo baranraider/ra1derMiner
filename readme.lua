@@ -1,5 +1,6 @@
-
-	["case"] = {
+qb-core/shared/items.lua veya qb-core/shared.lua içerisine sallayın
+	
+["case"] = {
         ["name"] = "case", 
         ["label"] = "Antique Case", 
         ["weight"] =  2500, 
